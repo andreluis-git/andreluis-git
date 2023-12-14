@@ -47,7 +47,7 @@ const AndreRodrigues = {
 
 [linkedin]: https://www.linkedin.com/in/andre-luis-rodrigues/
 
-#### 📱 Redes sociais!
+#### 📱 Redes sociais
 
 <section>  
 <a href="https://www.linkedin.com/in/andre-luis-rodrigues/" target="_blank">
