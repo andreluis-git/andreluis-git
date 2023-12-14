@@ -9,7 +9,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img alt="Coder GIF" align="right" width="300" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" align="right" width="250" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 ```JavaScript
 const AndreRodrigues = {
