@@ -21,7 +21,7 @@ const AndreRodrigues = {
 
 ----
 
-## 💻 Minhas Skills
+## 💻 Minhas skills
 <section>
   <code><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /></code>
   <code><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></code>
@@ -47,7 +47,7 @@ const AndreRodrigues = {
 
 [linkedin]: https://www.linkedin.com/in/andre-luis-rodrigues/
 
-#### 📱 Rede Sociais!
+#### 📱 Redes sociais!
 
 <section>  
 <a href="https://www.linkedin.com/in/andre-luis-rodrigues/" target="_blank">
