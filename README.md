@@ -13,7 +13,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md
 
 ```JavaScript
 const AndreRodrigues = {
-  nome: "ANDRÉ RODRIGUES",
+  Nome: "ANDRÉ RODRIGUES",
   Area: "DESENVOLVIMENTO FULL STACK",
   Linguagens: [".NET", "ReactJs", "SQL Server"],
 };
