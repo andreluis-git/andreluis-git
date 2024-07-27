@@ -15,7 +15,6 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md
 const AndreRodrigues = {
   Nome: "ANDRÉ RODRIGUES",
   Area: "DESENVOLVIMENTO FULL STACK",
-  Linguagens: [".NET", "ReactJs", "SQL Server"],
 };
 ```
 
